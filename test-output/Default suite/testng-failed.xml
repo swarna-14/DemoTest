@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="FunctionalTest.LandApplicationTest">
+        <methods>
+          <include name="dulyNotarizedUndertakingDocFile"/>
+          <include name="autoFilledAddress"/>
+          <include name="dulyNotarizedUndertakingExcelFile"/>
+          <include name="plinthAreaInvalid"/>
+          <include name="PANofEstablishedBanksImageFile"/>
+          <include name="projectTotalEMPVerification"/>
+          <include name="PANofEstablishedBanksExcelFile"/>
+          <include name="autoFilledCheckEmail"/>
+          <include name="PANofEstablishedBanks"/>
+          <include name="Copyoftheconstitutionregistration"/>
+          <include name="BoardResolution"/>
+          <include name="builtupAreaInvalid"/>
+          <include name="DetailedProjectReportExcelFile"/>
+          <include name="PANofEstablishedBanksMP4File"/>
+          <include name="autoFilledCheckMnumber"/>
+          <include name="tearDown"/>
+          <include name="autoFilledCheckState"/>
+          <include name="autoFilledCheckPin"/>
+          <include name="powerofattorney"/>
+          <include name="DomesticwaterInvalid"/>
+          <include name="autoFilledifsc"/>
+          <include name="ExperienceInIndustryValidity"/>
+          <include name="DetailedProjectReportValid"/>
+          <include name="autoFilledCheckName"/>
+          <include name="autoFilledaccountNum"/>
+          <include name="IndustrialwaterInvalid"/>
+          <include name="PANofEstablishedBanksTxtFile"/>
+          <include name="finishSetup"/>
+          <include name="plotSizeInvalid"/>
+          <include name="autoFilledBranch"/>
+          <include name="OtherOperationalUnitsinIndiavalidity"/>
+          <include name="dulyNotarizedUndertakinMP4File"/>
+          <include name="Checkenablepreviewpage"/>
+          <include name="FinancialArrangementInvalid"/>
+          <include name="RequirementPowerInvalid"/>
+          <include name="FinancialDetailsInvalid"/>
+          <include name="SetupReport"/>
+          <include name="DetailedProjectReportTxtFile"/>
+          <include name="autoFilledCheckCity"/>
+          <include name="checkexpectedtext"/>
+          <include name="autoFilledCheckCountry"/>
+          <include name="promoterexperience"/>
+          <include name="dulyNotarizedUndertaking"/>
+          <include name="FPWSAreaInvalid"/>
+          <include name="PANofEstablishedBanksDocFile"/>
+          <include name="InvestmentinBuildingInvalid"/>
+          <include name="dulyNotarizedUndertakinImageFile"/>
+          <include name="EstimatedsolidwasteInvalid"/>
+          <include name="autoFilledCheckCat"/>
+          <include name="DetailedProjectReportImageFile"/>
+          <include name="EstimatedeffluentInvalid"/>
+          <include name="DetailedProjectReportBlank"/>
+          <include name="autoFilledBName"/>
+          <include name="dulyNotarizedUndertakingTxtFile"/>
+          <include name="Authorizedsignatorieslist"/>
+          <include name="DetailedProjectReportDocFile"/>
+          <include name="DetailedProjectReportMP4File"/>
+        </methods>
+      </class> <!-- FunctionalTest.LandApplicationTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
